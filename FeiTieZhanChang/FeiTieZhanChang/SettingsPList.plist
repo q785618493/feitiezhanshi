@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>字体设置</string>
+		<string>屏幕亮度</string>
+	</array>
+	<array>
+		<string>流量设置</string>
+		<string>连接WIFI自动下载</string>
+	</array>
+	<array>
+		<string>通知设置</string>
+		<string>自动分享</string>
+		<string>意见反馈</string>
+		<string>更新版本</string>
+		<string>清理缓存</string>
+		<string>分享应用</string>
+		<string>扫码关注</string>
+	</array>
+</array>
+</plist>
